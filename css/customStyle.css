@@ -1,0 +1,57 @@
+.cssHeight div {
+    height: "35%" !important;
+}
+
+.sapMObjStatusText {
+    white-space: normal;
+}
+ .capitalize {
+    text-transform: capitalize;   
+  }
+.cssOpen span {
+    color: #EE7600 !important;
+}
+div.sapUiRespGridSpanL10.sapUiRespGridSpanM10.sapUiRespGridSpanS12.sapUiRespGridSpanXL10{
+	    height: 2em;
+}
+.stateClass{
+	width: 100%;
+    max-width: 100%;
+    border-color: #e52929;
+    border-width: 0.1rem;
+}
+.controlValueStateError {
+    border-color: #e52929 !important;
+    border-width: 0.124rem !important;
+}
+
+.sapUiSizeCompact .controlValueStateError .sapMInputBaseInner {
+    border-color: #e52929 !important;
+    border-width: 0.124rem !important;
+    border-style: solid !important;
+}
+
+.controlValueStateError .sapMRbB .sapMRbBOut {
+    border-color: #e52929 !important;
+    border-width: 0.124rem !important;
+    border-style: solid !important;
+}
+.ComboClass .sapMInputBaseInner {
+    height: 1.625rem;
+    margin-left: -0.5em;
+    padding: 0px 0.5rem;
+    
+    padding-bottom: 1.9em;
+    padding-right: 0em;
+}
+.cssHot span {
+    color: green !important;
+}
+
+.cssCold span {
+    color: blue !important;
+}
+
+.cssDrop span {
+    color: red !important;
+}

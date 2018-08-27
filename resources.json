@@ -1,0 +1,239 @@
+{
+    "resources": [
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "extended_runnable_file.html"
+        },
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "neo-app.json"
+        },
+        {
+            "name": "localService/DocumentHistorySet.json"
+        },
+        {
+            "name": "localService/TextCustomizingSet.json"
+        },
+        {
+            "name": "localService/SalesStages.json"
+        },
+        {
+            "name": "localService/OpportunityComplexNotesSet.json"
+        },
+        {
+            "name": "localService/Product.json"
+        },
+        {
+            "name": "localService/ContactCollection.json"
+        },
+        {
+            "name": "localService/Priorities.json"
+        },
+        {
+            "name": "localService/EmployeeCollection.json"
+        },
+        {
+            "name": "localService/OpportunityStatuses.json"
+        },
+        {
+            "name": "localService/ProcessTypes.json"
+        },
+        {
+            "name": "localService/Opportunities.json"
+        },
+        {
+            "name": "localService/Products.json"
+        },
+        {
+            "name": "localService/AccountCollection.json"
+        },
+        {
+            "name": "localService/TextLanguageSet.json"
+        },
+        {
+            "name": "localService/Currencies.json"
+        },
+        {
+            "name": "localService/OpportunityAttachments.json"
+        },
+        {
+            "name": "localService/RequestedPartners.json"
+        },
+        {
+            "name": "localService/UserStatuses.json"
+        },
+        {
+            "name": "localService/EditAuthorizationCheck.json"
+        },
+        {
+            "name": "localService/PartnerFunctions.json"
+        },
+        {
+            "name": "view/S5Custom.controller.js"
+        },
+        {
+            "name": "view/S3Custom.view.xml"
+        },
+        {
+            "name": "view/S3Custom.controller.js"
+        },
+        {
+            "name": "view/AccountSelectDialogCustom.fragment.xml"
+        },
+        {
+            "name": "view/S5Custom.view.xml"
+        },
+        {
+            "name": "view/S2Custom.view.xml"
+        },
+        {
+            "name": "view/SortingDialog1.fragment.xml"
+        },
+        {
+            "name": "view/DuplicateTab.fragment.xml"
+        },
+        {
+            "name": "view/S4Custom.controller.js"
+        },
+        {
+            "name": "view/S2Custom.controller.js"
+        },
+        {
+            "name": "view/S4Custom.view.xml"
+        },
+        {
+            "name": ".project.json"
+        },
+        {
+            "name": "css/customStyle.css"
+        },
+        {
+            "name": "util/Formatter.js"
+        },
+        {
+            "name": "resources.json",
+            "merged": true
+        },
+        {
+            "name": "appHelper/custFormatter.js"
+        },
+        {
+            "name": ".user.project.json"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "i18n/i18n_sl.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_iw.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_ro.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_pl.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_fr.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_it.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_de.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_tr.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_en.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_ru.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_hu.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_en_US_saptrc.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_sk.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_ar.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_en_US_sappsd.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_zh_CN.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_bg.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_es.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_ja.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_no.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_cs.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_sh.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_zh_CN_.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_pt.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_hr.properties",
+            "raw": "i18n/i18n.properties"
+        }
+    ]
+}
